@@ -8,9 +8,7 @@ import App from "./components/App.js";
 const container = document.getElementById("root");
 const root = createRoot(container);
 root.render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>
+  
 );
 
 // allows for live updating
