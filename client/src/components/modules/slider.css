@@ -1,0 +1,5 @@
+.element {
+    width: 50%; /* Set the width to 50% of the container or viewport */
+    margin: 0 auto; /* Center the element horizontally */
+    text-align: center; /* Optional: Center text content inside the element */
+}
